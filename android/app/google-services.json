@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248928004836",
+    "project_id": "gomla-ed606",
+    "storage_bucket": "gomla-ed606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248928004836:android:e54341259a462e6bf7daf1",
+        "android_client_info": {
+          "package_name": "com.devetechno.gomla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARG4JpqZVjKs35O_PwglO67ndlVqF4Axk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
